@@ -2,7 +2,7 @@
 
 /* @var $this yii\web\View */
 // daz commit
-$this->title = 'My Yii Application daz';
+$this->title = 'My Yii Application dazn311';
 ?>
 <div class="site-index">
 
