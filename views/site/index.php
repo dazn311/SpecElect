@@ -1,8 +1,8 @@
 <?php
 
 /* @var $this yii\web\View */
-
-$this->title = 'My Yii Application';
+// daz commit
+$this->title = 'My Yii Application daz';
 ?>
 <div class="site-index">
 
